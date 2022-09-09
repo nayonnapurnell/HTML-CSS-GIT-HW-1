@@ -3,6 +3,10 @@
 For this particular Challenge, a mock marketing agency has hired me to refactor an existing site to make it more accessible.
 ## Project Summary
 
+## Project Link
+Here you can find the link to the deployed application:
+https://nayonnapurnell.github.io/HTML-CSS-GIT-HW-1/
+
 
 ### User Story
 AS A marketing agency
