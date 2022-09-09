@@ -1,22 +1,20 @@
 # Refactoring Existing Code
 
-A mock marketing agency, The Horiseon Company has hired me to refactor an existing site to make it more accessible.
+A marketing agency, The Horiseon Company has hired me to refactor an existing site to make it more accessible.
 This refactored website should be compliant with mandatory accessibility requirements and should incorporate best practices for code maintenance and readability.
 ## Project Summary
 
 The following tasks completed to follow the User Story's acceptance criteria:
-**HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence
-**HTML elements were replaced with semantic HTML elements
-**Alt text was added to images
-**Fixed broken internal links
-**Explanatory comments were provided in the HTML and CSS document
+* HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence
+* HTML elements were replaced with semantic HTML elements
+* Alt text was added to images
+* Fixed broken internal links
+* Explanatory comments were provided in the HTML and CSS document
 
-## Project Link
-Here you can find the link to the deployed application:
-https://nayonnapurnell.github.io/HTML-CSS-GIT-HW-1/
 
 
 ### User Story
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -34,6 +32,11 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+
+## Project Link
+Here you can find the link to the deployed application:
+https://nayonnapurnell.github.io/HTML-CSS-GIT-HW-1/
 
 
 ## Mock-Up
