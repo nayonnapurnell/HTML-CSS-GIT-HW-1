@@ -1,7 +1,15 @@
 # Refactoring Existing Code
 
-For this particular Challenge, a mock marketing agency has hired me to refactor an existing site to make it more accessible.
+A mock marketing agency, The Horiseon Company has hired me to refactor an existing site to make it more accessible.
+This refactored website should be compliant with mandatory accessibility requirements and should incorporate best practices for code maintenance and readability.
 ## Project Summary
+
+The following tasks completed to follow the User Story's acceptance criteria:
+**HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence
+**HTML elements were replaced with semantic HTML elements
+**Alt text was added to images
+**Fixed broken internal links
+**Explanatory comments were provided in the HTML and CSS document
 
 ## Project Link
 Here you can find the link to the deployed application:
