@@ -4,7 +4,7 @@ A marketing agency, The Horiseon Company has hired me to refactor an existing si
 This refactored website should be compliant with mandatory accessibility requirements and should incorporate best practices for code maintenance and readability.
 ## Project Summary
 
-The following tasks completed to follow the User Story's acceptance criteria:
+The following tasks were completed based upon the User Story's acceptance criteria found below:
 * HTML and CSS were updated to be in line with best practices, in a consolidated, logical sequence
 * HTML elements were replaced with semantic HTML elements
 * Alt text was added to images
@@ -15,23 +15,23 @@ The following tasks completed to follow the User Story's acceptance criteria:
 
 ### User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+AS A marketing agency,
+* I WANT a codebase that follows accessibility standards
+* SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+* WHEN I view the source code
+* THEN I find semantic HTML elements
+* WHEN I view the structure of the HTML elements
+* THEN I find that the elements follow a logical structure independent of styling and positioning
+* WHEN I view the icon and image elements
+* THEN I find accessible alt attributes
+* WHEN I view the heading attributes
+* THEN they fall in sequential order
+* WHEN I view the title element
+* THEN I find a concise, descriptive title
 
 
 ## Project Link
