@@ -32,11 +32,11 @@ THEN I find a concise, descriptive title
 
 The following image demonstrates the web application's appearance and functionality:
 
-![Note: This layout is designed for desktop viewing, you may notice that some of the elements don't look exactly like the mock-up at a resolution smaller than 768px.](./assets/image-1.png)
+![Note: This layout is designed for desktop viewing, you may notice that some of the elements don't look exactly like the mock-up at a resolution smaller than 768px.](./assets/hero-image.png)
 
 ## Authors
 
-* **Nayonna Purnell** - *Edited the README Template for the project and provided all python code*
+* **Nayonna Purnell** - *Edited the README Template for the project*
 
 * **Billie Thompson** - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
 
