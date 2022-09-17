@@ -1,4 +1,4 @@
-# Refactoring Existing Code
+# Refactoring HTML & CSS to improve Site Accessibilty and Search Engine Optimization
 
 A marketing agency, The Horiseon Company has hired me to refactor an existing site to make it more accessible.
 This refactored website should be compliant with mandatory accessibility requirements and should incorporate best practices for code maintenance and readability.
